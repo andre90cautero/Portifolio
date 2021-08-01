@@ -12,7 +12,7 @@ O projeto de análise de dados é em cima dos do e commerce Olist divulgado por 
 a ideia e passar desde o tratamento da base de dados, pela analise exploratória por cada tabela e pela base de forma geral, algum estudo em ciência dos dados e um dashboard.
 
 
-<li><a href="https://github.com/andre90cautero/Scraping_imoveis">Tratamento da base - saída em csv e mysql </a></li>
+<li><a href="https://github.com/andre90cautero/Projeto_Olist_brazilian_ecommerce/blob/main/tratamento_base_olist.ipynb">Tratamento da base - saída em csv e mysql </a></li>
 
 <h2> Projeto de análise de imóveis</h2>
 
