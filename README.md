@@ -5,6 +5,15 @@
   Apesar de muito longe de onde quero chegar aprendi muita coisa nesses últimos 4 anos, seja estudando, mas também desenvolvendo soluções para terceiros como freelancer, meu foco nunca foi ser empreendedor, mas posso dizer que aprendi muito com isso, desde lidar com o cliente, tarefas administrativas e com o contato com projetos de temas muito diversos, me exigiram muita paciência e jogo de cintura, mas foi como apreender 10 anos em 4 anos. Hoje me destaco pela generalidade de conhecimento, mas tenho como objetivo especializar em extrair valor desse novo petróleo.
 
 </p>
+
+<h2> Projeto de análise de dados - Olist - brazilian-ecommerce ( em Andamento !!!)</h2>
+
+O projeto de análise de dados é em cima dos do e commerce Olist divulgado por eles no site https://www.kaggle.com/olistbr/brazilian-ecommerce 
+a ideia e passar desde o tratamento da base de dados, pela analise exploratória por cada tabela e pela base de forma geral, algum estudo em ciência dos dados e um dashboard.
+
+
+<li><a href="https://github.com/andre90cautero/Scraping_imoveis">Tratamento da base - saída em csv e mysql </a></li>
+
 <h2> Projeto de análise de imóveis</h2>
 
 Esse projeto surgiu com a nescessidade de precificar um imovel na qual possuo parte, o a nescessidade da precificação surgiu após recebermos uma proposta
@@ -13,21 +22,22 @@ Para o problema em questão, apenas tratei a base, retirei outliers afim de equa
 
 
 
-<a href="https://github.com/andre90cautero/Scraping_imoveis">Scraping de dados de imóveis</a>
+<li><a href="https://github.com/andre90cautero/Scraping_imoveis">Scraping de dados de imóveis</a></li>
 
-<a href="https://colab.research.google.com/drive/1_71uHhFaSdvcA5DaLK182mGmMzhiu2JG?usp=sharing">Análise Exploratória de dados de imóveis</a>
+<li><a href="https://colab.research.google.com/drive/1_71uHhFaSdvcA5DaLK182mGmMzhiu2JG?usp=sharing">Análise Exploratória de dados de imóveis</a></li>
 
 
 <h2> Dashboards </h2>
 <p>
   Essa seção é dedicada a alguns projetos profissionais e ficticios pela minha empresa Easy Dashboards, o grande foco da empresa é na visualização de dados, automação de planilhas e relatórios.
 </p>
-<a href="https://app.powerbi.com/view?r=eyJrIjoiOTY4Zjk1NmQtNzFmMy00YzQxLWEzOTAtYjViM2ZhMjE4MzE1IiwidCI6IjRlZTcwOTI1LWQwODMtNDcxMi1iYmQ0LWQ5MDY2ZDlmY2Y4MiJ9&pageName=ReportSection">Dashboard - Processos tribunal de Justiça</a>
-
-<a href="https://app.powerbi.com/view?r=eyJrIjoiYjZhZDYyYjItMjM1OS00ODBlLWI4ZjYtZjkwZjZhOGQ1OTMxIiwidCI6IjRlZTcwOTI1LWQwODMtNDcxMi1iYmQ0LWQ5MDY2ZDlmY2Y4MiJ9&pageName=ReportSection2edf54bdbd201b4a7c10
-">Dashboard Fictício de People Analytics</a>
-
-<a href="https://app.powerbi.com/view?r=eyJrIjoiNzNjMzViNGUtM2Y4ZS00ZTQzLTg3ODktMWEwNjMwMGM2NTBkIiwidCI6IjRlZTcwOTI1LWQwODMtNDcxMi1iYmQ0LWQ5MDY2ZDlmY2Y4MiJ9">Dashboard People Analytics empresa de manuteções industriais</a>
-
-<a href="https://app.powerbi.com/view?r=eyJrIjoiYTc0MDE4NjItZmZkOS00NWQ1LWE3MzQtMjFhYmIyZmJhNzgzIiwidCI6IjRlZTcwOTI1LWQwODMtNDcxMi1iYmQ0LWQ5MDY2ZDlmY2Y4MiJ9&pageName=ReportSection7566dd3ad7501233c2a8">Dashboard de Controle de Projetos </a>
+<br>
+<li><a href="https://app.powerbi.com/view?r=eyJrIjoiOTY4Zjk1NmQtNzFmMy00YzQxLWEzOTAtYjViM2ZhMjE4MzE1IiwidCI6IjRlZTcwOTI1LWQwODMtNDcxMi1iYmQ0LWQ5MDY2ZDlmY2Y4MiJ9&pageName=ReportSection">Dashboard - Processos tribunal de Justiça</a></li>
+<br>
+<li><a href="https://app.powerbi.com/view?r=eyJrIjoiYjZhZDYyYjItMjM1OS00ODBlLWI4ZjYtZjkwZjZhOGQ1OTMxIiwidCI6IjRlZTcwOTI1LWQwODMtNDcxMi1iYmQ0LWQ5MDY2ZDlmY2Y4MiJ9&pageName=ReportSection2edf54bdbd201b4a7c10
+">Dashboard Fictício de People Analytics</a></li>
+<br>
+<li><a href="https://app.powerbi.com/view?r=eyJrIjoiNzNjMzViNGUtM2Y4ZS00ZTQzLTg3ODktMWEwNjMwMGM2NTBkIiwidCI6IjRlZTcwOTI1LWQwODMtNDcxMi1iYmQ0LWQ5MDY2ZDlmY2Y4MiJ9">Dashboard People Analytics empresa de manuteções industriais</a></li>
+<br>
+<li><a href="https://app.powerbi.com/view?r=eyJrIjoiYTc0MDE4NjItZmZkOS00NWQ1LWE3MzQtMjFhYmIyZmJhNzgzIiwidCI6IjRlZTcwOTI1LWQwODMtNDcxMi1iYmQ0LWQ5MDY2ZDlmY2Y4MiJ9&pageName=ReportSection7566dd3ad7501233c2a8">Dashboard de Controle de Projetos ESG & Sustentabilidade para maior rede de saúde integrada do Brasil </a></li>
 
