@@ -4,6 +4,14 @@
   Nós últimos 4 anos tenho me dedicado muito a essa área incrível que é a área de dados, meu primeiro contato foi analisando dados de ações, na época eu baixava as bases de dados de pregões e tentava tirar alguns insights, simular estratégias de investimento, tudo isso com VBA e Excel, na época não sabia nem o que era análise de dados, mas a partir dali nasceu essa paixão, por investigar dados e tentar extrair valor e informações que não era facilmente visíveis.
   Apesar de muito longe de onde quero chegar aprendi muita coisa nesses últimos 4 anos, seja estudando, mas também desenvolvendo soluções para terceiros como freelancer, meu foco nunca foi ser empreendedor, mas posso dizer que aprendi muito com isso, desde lidar com o cliente, tarefas administrativas e com o contato com projetos de temas muito diversos, me exigiram muita paciência e jogo de cintura, mas foi como apreender 10 anos em 4 anos. Hoje me destaco na construção de dashboards principalmente pelo contato diário, tenho como objetivo especializar em ciência dos dados e extrair valor de mais valor dados.
 </p>
+<h3>Contato</h3>
+<li><a href='https://www.linkedin.com/in/andr%C3%A9-ramos-cautero-24724590/'>linkedin - André Ramos Cautero</a></li>
+<li><a href='https://api.whatsapp.com/send?phone=5547988243113&text=Ol%C3%A1%20Easy%20Dashboards!'>Whatsapp</a></li>
+<li><a href='http://www.easydashboards.com.br/'>Site - Easydashboards</a></li>
+
+
+
+
 
 <h2> Projeto de análise de dados - Olist - brazilian-ecommerce ( em Andamento !!!)</h2>
 
