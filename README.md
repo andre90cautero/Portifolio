@@ -13,7 +13,7 @@ a ideia e passar desde o tratamento da base de dados, pela analise exploratória
 
 
 <li><a href="https://github.com/andre90cautero/Projeto_Olist_brazilian_ecommerce/blob/main/tratamento_base_olist.ipynb">Tratamento da base - saída em csv e mysql </a></li>
-
+<li><a href='https://github.com/andre90cautero/Projeto_Olist_brazilian_ecommerce/blob/main/analise_exploratoria_tabelas.ipynb'>Análise Exploratória das tabelas de forma individual</a></li>
 <h2> Projeto de análise de imóveis</h2>
 
 Esse projeto surgiu com a nescessidade de precificar um imovel na qual possuo parte, o a nescessidade da precificação surgiu após recebermos uma proposta
