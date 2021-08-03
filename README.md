@@ -1,3 +1,5 @@
+
+<img src="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/technology-linkedin-background-template-design-5ddf7265984fb7980eedccd4a9cff879_screen.jpg?ts=1597995925" alt="Girl in a jacket" width="100%">
 <h1>Portfólio André Ramos Cautero</h1>
 <p>
   Olá, eu sou o André, sou projetista mecânico por formação dformado na faculdade de tecnologia do Estado de São Paulo.Fascinado por tecnologia desde a infância, sempre fui do tipo de criança que gostava de construir os próprios brinquedos, sempre fuçando, aprendendo e tentando inventar, seja construindo instrumentos musicais, circuitos impressos, fazendo cursos técnicos, energia solar, programação, resumindo: amo muito aprender!!! 
